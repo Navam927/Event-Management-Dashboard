@@ -25,8 +25,8 @@ A backend application for managing events, built with Node.js, Express, and Mong
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/Navam927/Event-Management-Dashboard
+   cd Event-Management-Dashboard
    ```
 
 2. **Install Dependencies**:
@@ -100,4 +100,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or feedback, reach out to `<your-email>` or open an issue on GitHub.
+For questions or feedback, reach out to `navamsharma142@gmail.com` or open an issue on GitHub.
